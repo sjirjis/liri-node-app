@@ -69,7 +69,7 @@ var searchTweets = function() {
 var spotifySearch = function(spotifyQuery) {
 
     if (spotifyQuery === null || spotifyQuery === undefined) {
-        spotifyQuery = 'The Sign';
+        spotifyQuery = 'The Sign Ace of Base';
     }
 
     spotify.search({ type: 'track', query: spotifyQuery + '&limit=1' }, function(error, data) {
