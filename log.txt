@@ -1,0 +1,128 @@
+{
+  "Title": "Scarface",
+  "Year": "1983",
+  "IMDB_Rating": "8.3",
+  "Country": "USA",
+  "Language": "English, Spanish",
+  "Plot": "In Miami in 1980, a determined Cuban immigrant takes over a drug cartel and succumbs to greed.",
+  "Actors": "Al Pacino, Steven Bauer, Michelle Pfeiffer, Mary Elizabeth Mastrantonio",
+  "Rotten_Tomatoes_Rating": "82%",
+  "Rotten_Tomatoes_URL": "https://www.rottentomatoes.com/m/scarface"
+}
+{
+  "Artists_Name": "Tim Johnston",
+  "Songs_Name": "Insert Song Name Here",
+  "Preview_URL": "https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=null",
+  "Album_Name": "Metal on the Inside, Vol. 2"
+}
+{
+  "Artists_Name": "Tim Johnston",
+  "Songs_Name": "Insert Song Name Here",
+  "Preview_URL": "https://p.scdn.co/mp3-preview/703e6e4f1aeb3f21185e4717fe5ee1d4404bbed3?cid=null",
+  "Album_Name": "Metal on the Inside, Vol. 2"
+}
+[object Object]
+{
+  "tweetArray": [
+    {
+      "tweetCount": "Tweet # 1",
+      "tweetText": "Just one more for good measure ;)",
+      "tweetCreateDt": "Sat Apr 01 05:01:27 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 2",
+      "tweetText": "and finally, tweet 20!!",
+      "tweetCreateDt": "Sat Apr 01 05:01:19 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 3",
+      "tweetText": "tweet 19",
+      "tweetCreateDt": "Sat Apr 01 05:01:12 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 4",
+      "tweetText": "Dave Chappelle has a couple new ones out on Netflix now",
+      "tweetCreateDt": "Sat Apr 01 05:00:46 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 5",
+      "tweetText": "Loved Jim Jeffries Freedumb!",
+      "tweetCreateDt": "Sat Apr 01 05:00:26 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 6",
+      "tweetText": "When I think of Twiter, I think of Trump",
+      "tweetCreateDt": "Sat Apr 01 05:00:07 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 7",
+      "tweetText": "Drink 1 full liter of water upon waking up",
+      "tweetCreateDt": "Sat Apr 01 04:58:25 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 8",
+      "tweetText": "now 7",
+      "tweetCreateDt": "Sat Apr 01 04:57:55 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 9",
+      "tweetText": "Only need 8 more tweets",
+      "tweetCreateDt": "Sat Apr 01 04:57:52 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 10",
+      "tweetText": "Way to go Jenny! We're proud of you!",
+      "tweetCreateDt": "Sat Apr 01 04:57:08 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 11",
+      "tweetText": "Jenny was drumming away in Drum Line!",
+      "tweetCreateDt": "Sat Apr 01 04:56:59 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 12",
+      "tweetText": "Let's get 1st place in State Cup!!!",
+      "tweetCreateDt": "Sat Apr 01 04:56:45 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 13",
+      "tweetText": "Go Sporting SD!",
+      "tweetCreateDt": "Sat Apr 01 04:56:31 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 14",
+      "tweetText": "Yay for Node!",
+      "tweetCreateDt": "Sat Apr 01 04:56:24 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 15",
+      "tweetText": "I am a tweet 2",
+      "tweetCreateDt": "Sat Apr 01 04:28:43 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 16",
+      "tweetText": "I am a tweet",
+      "tweetCreateDt": "Sat Apr 01 04:06:31 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 17",
+      "tweetText": "and another one",
+      "tweetCreateDt": "Sat Apr 01 04:05:47 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 18",
+      "tweetText": "stoked to get over the cross-origin issues I've been running into by moving into node.js",
+      "tweetCreateDt": "Tue Mar 28 01:38:31 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 19",
+      "tweetText": "tweet3",
+      "tweetCreateDt": "Tue Mar 28 01:34:55 +0000 2017"
+    },
+    {
+      "tweetCount": "Tweet # 20",
+      "tweetText": "tweet2",
+      "tweetCreateDt": "Tue Mar 28 01:34:51 +0000 2017"
+    }
+  ]
+}
